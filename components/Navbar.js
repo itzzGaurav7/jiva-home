@@ -46,16 +46,16 @@ const Navbar = () => {
             <Link href="/">Home</Link>
           </li>
           <li className={` text-dark-gray ${styles.navLink}`}>
-            <Link href="/">Find a doctor</Link>
+            <Link href="/">Our Team</Link>
           </li>
           <li className={` text-dark-gray ${styles.navLink}`}>
-            <Link href="/">Apps</Link>
+            <Link href="/">Vision</Link>
           </li>
           <li className={` text-dark-gray ${styles.navLink}`}>
-            <Link href="/">Testimonials</Link>
+            <Link href="/">JivaBOT</Link>
           </li>
           <li className={` text-dark-gray ${styles.navLink}`}>
-            <Link href="/">About us</Link>
+            <Link href="/">LOGIN</Link>
           </li>
         </ul>
         <div className={`${styles.navMenuButton}`}>

@@ -11,7 +11,7 @@ export default function Home(props) {
   return (
     <div>
       <Head>
-        <title>Trafalgar - You health Partner</title>
+        <title>Jiva</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link rel="shortcut icon" href="/public/favicon.ico" />
       </Head>

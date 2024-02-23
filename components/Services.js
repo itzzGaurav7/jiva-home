@@ -18,9 +18,6 @@ const Services = ({ services }) => {
             return <ServiceCard service={item} key={item.id} />;
           })}
         </div>
-        <div className="row center">
-          <Button text="Learn More" />
-        </div>
       </div>
     </section>
   );
